@@ -14,4 +14,6 @@ Welcome to my research website.
 
 *[Teeth growth analysis](teeth.html)
 
+*[Ali Alamri's Teeth growth analysis](https://ahalamri01.github.io/myproject/)
+
 
